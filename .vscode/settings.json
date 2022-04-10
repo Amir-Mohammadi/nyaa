@@ -1,0 +1,32 @@
+{
+  "cSpell.words": [
+    "BSSID",
+    "Diodrum",
+    "Esptouch",
+    "Nyaa",
+    "Pressable",
+    "SSID",
+    "Unmount",
+    "cbor",
+    "commitlint",
+    "jsonify",
+    "netinfo",
+    "paho",
+    "wifi",
+    "نمائید",
+    "ورژن"
+  ],
+  "cSpell.language": "en,fa",
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "files.eol": "\r\n",
+  "prettier.endOfLine": "crlf",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true
+  },
+  "editor.tabSize": 2
+}
